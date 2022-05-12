@@ -1,0 +1,66 @@
+.alignItems{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    margin-top: -50px;
+}
+.button {
+  background-color: #555555; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.backButton {
+  background-color: #85bb65 ; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.alignMainPage{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    margin-top: -50px;
+}
+
+.alignParagraph{
+	line-height: 1.5em;
+    height: 3em;
+    overflow: hidden;
+    width: 300px;
+}
+
+input[type=text], [type=number],select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.form-control {
+  padding:5px;
+  font-family: system-ui, sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.1;
+  margin-top: 1em;
+  }
+
+
